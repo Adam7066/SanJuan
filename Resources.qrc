@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/career">
+        <file>images/career/Adventurer.jpg</file>
+        <file>images/career/Adventurer.png</file>
+        <file>images/career/Builder.jpg</file>
+        <file>images/career/Builder.png</file>
+        <file>images/career/career back.jpg</file>
+        <file>images/career/Councillor.jpg</file>
+        <file>images/career/Councillor.png</file>
+        <file>images/career/Governor.jpg</file>
+        <file>images/career/Governor.png</file>
+        <file>images/career/Producer.jpg</file>
+        <file>images/career/Producer.png</file>
+        <file>images/career/Trader.jpg</file>
+        <file>images/career/Trader.png</file>
+    </qresource>
+    <qresource prefix="/building">
+        <file>images/building/Tomato plant.jpg</file>
+        <file>images/building/Adventurers Guild.jpg</file>
+        <file>images/building/Alley of Glory.jpg</file>
+        <file>images/building/Aqueduct.jpg</file>
+        <file>images/building/Archive.jpg</file>
+        <file>images/building/Black Market.jpg</file>
+        <file>images/building/Builders Crane.jpg</file>
+        <file>images/building/City Hall.jpg</file>
+        <file>images/building/Craft House.jpg</file>
+        <file>images/building/Guild Hall.jpg</file>
+        <file>images/building/Heroes.jpg</file>
+        <file>images/building/Households.jpg</file>
+        <file>images/building/Library.jpg</file>
+        <file>images/building/Marketplace.jpg</file>
+        <file>images/building/Mill.jpg</file>
+        <file>images/building/Palace.jpg</file>
+        <file>images/building/Pond farm.jpg</file>
+        <file>images/building/Poor House.jpg</file>
+        <file>images/building/Prefecture.jpg</file>
+        <file>images/building/Shipyard.jpg</file>
+        <file>images/building/Statue.jpg</file>
+        <file>images/building/Temple.jpg</file>
+        <file>images/building/Tower.jpg</file>
+        <file>images/building/Trade route.jpg</file>
+        <file>images/building/Trading Post.jpg</file>
+        <file>images/building/Triumphal Arch.jpg</file>
+        <file>images/building/Unite of foremans.jpg</file>
+        <file>images/building/Warden house.jpg</file>
+        <file>images/building/Zeppelin shipyard.jpg</file>
+    </qresource>
+    <qresource prefix="/trading">
+        <file>images/trading/trading cards 1.jpg</file>
+        <file>images/trading/trading cards 2.jpg</file>
+        <file>images/trading/trading cards 3.jpg</file>
+        <file>images/trading/trading cards 4.jpg</file>
+        <file>images/trading/trading cards 5.jpg</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>images/background.jpg</file>
+    </qresource>
+</RCC>
