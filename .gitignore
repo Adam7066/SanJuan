@@ -1,2 +1,4 @@
+C_Game/initGame
+C_Game/game
 C_Game/GameStatus/table.json
-SaveData/*.json
+/SaveData/*.json
